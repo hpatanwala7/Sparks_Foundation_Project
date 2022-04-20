@@ -1,0 +1,195 @@
+#wrapper {
+    width: 1330px;
+	margin:auto;
+	padding:0px 0px 0px 0px;
+	background-color:#28282B;
+}
+
+#content {
+	height:1400px;
+	margin:10px 0px;
+	clear:both;
+	width:1330px; 
+	background-color:#28282B;
+}
+
+.mySlides{
+	width:1330px;   
+	height:600px;
+	
+}
+
+#slides{
+	background: #FFFFFF;
+    width:1330px;
+	clear:both;
+	margin:0px 0px;
+}	
+
+h1{
+	color:#FEC201;
+	text-align:center;
+	vertical-align:center;
+}
+hr{
+	width:800px;
+}
+
+#para{
+    padding: 10px;
+	vertical-align:center;
+	text-align:center;
+	color:#F5FFFA;
+	width:600px;
+	margin:10px 0px 10px 380px;
+	font-family:lucida;
+	line-height:27px;
+}
+
+#read-button{
+	height:30px;
+	width:150px;
+	font-size:18px;
+	background-color:#28282B;
+	color:#FEC201;
+}
+
+#logos{
+	margin:10px 0px 0px 0px;
+	width:1330px;
+}	
+
+#logo-heading{
+	height:50px;
+	
+}	
+
+#wifi{
+	border-radius:40%;
+	height:130px;
+	width:180px;
+	margin:10px 0px 0px 100px;
+}	
+#wifi-heading{
+	text-align:center;
+	width:150px;
+	height:40px;
+	margin:0px 0px 0px 120px;
+	color:#FEC201;
+	float:left;
+}	
+#wifi-div{
+	height:250px;
+	width:200px;
+	margin:5px 0px 0px 100px;
+	float:left;
+	text-align:center;
+	color:#F5FFFA;
+	font-family:lucida;
+	line-height:27px;
+}
+
+#parking{
+	border-radius:20%;
+	height:150px;
+	width:150px;
+	margin:10px 0px 0px 150px;
+}	
+
+#parking-heading{
+	text-align:center;
+	width:150px;
+	height:40px;
+	margin:0px 0px 0px 150px;
+	color:#FEC201;
+	float:left;
+}	
+
+#parking-div{
+	height:250px;
+	width:200px;
+	margin:5px 0px 0px 110px;
+    float:left;	
+	text-align:center;
+	color:#F5FFFA;
+	font-family:lucida;
+	line-height:27px;
+}
+
+#atm-heading{
+	text-align:center;
+	width:150px;
+	height:40px;
+	margin:5px 0px 0px 150px;
+	color:#FEC201;
+	float:left;
+}	
+
+
+#atm{
+	border-radius:40%;
+	height:150px;
+	width:160px;
+	margin:10px 0px 0px 120px;
+}	
+
+#atm-div{
+	height:250px;
+	width:200px;
+	margin:5px 0px 0px 80px;		
+	float:left;	
+	text-align:center;
+	color:#F5FFFA;
+	font-family:lucida;
+	line-height:27px;
+}
+
+#spa-heading{
+	text-align:center;
+	width:150px;
+	height:40px;
+	margin:0px 180px 0px 110px;
+	color:#FEC201;
+	float:left;
+}	
+
+
+#spa{
+	border-radius:0%;
+	height:150px;
+	width:160px;
+	margin:10px 0px 0px 130px;
+}
+
+#spa-div{
+	height:250px;
+	width:200px;
+	margin:0px 80px 10px 80px;		
+	float:left;		
+	color:#F5FFFA;
+	font-family:lucida;
+	line-height:27px;
+	text-align:center;
+}
+
+#business-plan{
+	padding: 10px;
+	vertical-align:center;
+	text-align:center;
+	color:#F5FFFA;
+	width:600px;
+	margin:3px 10px 10px 380px;
+	font-family:lucida;
+	line-height:27px;
+}
+
+#welcome{
+	height:50px;
+	width:250px;
+	margin:10px 3px 0px 550px;
+	text-align:center;
+	color:#FEC201;
+	font-size:24px;
+	font-family:serif;
+}	
+

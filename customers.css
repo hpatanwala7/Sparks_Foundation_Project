@@ -1,0 +1,106 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color:#333;	
+}
+
+p {
+    padding: 10px;
+}
+
+
+#wrapper {
+    width: 1330px;
+	margin:0 auto;
+	padding:0px 0px 0px 0px; 
+	background-image:url('money.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed; 
+	background-size: 100% 100%;
+}
+
+#navigate {
+    float: left;
+    height: 60px;
+    width: 1330px;
+	margin:5px 0px 5px 0px;
+	font-size:20px;
+	font-family: sans serif;
+}
+
+#send-money{
+	background-color:#28282B;
+	color:#FEC201;
+	background-image:url('money.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed; 
+	background-size: 100% 100%;
+}
+
+#SD-button{
+	padding:10px 10px;
+	background-color:#28282B;
+	color:#FEC201;
+	margin:10px 10px 10px 500px;
+	border-radius:60%;
+	text-align:center;
+	font-size:18px;
+	font-family: lucida;
+}
+
+
+#sat-button{
+	padding:10px 10px;
+	background-color:#28282B;
+	color:#FEC201;
+	margin:10px 10px 10px 10px;
+	border-radius:60%;
+	text-align:center;
+	font-size:18px;
+	font-family:lucida;
+}
+
+#cust-table{
+	border:1px solid white;
+	border-collapse:collapse;
+	margin:10px 10px 10px 310px;
+}
+
+#th{
+	color:#FEC201;
+	border:1px solid white;
+	padding:35px 35px;
+	text-align:center;
+	margin:10px 10px;
+	font-family:lucida;
+	font-size:26px;
+}
+
+#tr{
+	color:#F5FFFA;
+	border:1px solid white;
+	padding:20px 20px;
+	text-align:center;
+	margin:10px 10px;
+}
+
+#td{
+	border-collapse:collapse;
+	border:1px solid white;
+	background-color:#faf5f5;
+	color:black;
+	font-family: lucida;
+	font-size:20px;
+	padding:10px 10px;
+	margin:10px 10px;
+}
+
+#td-black{
+	border-collapse:collapse;
+	border:1px solid white;
+	color:#F5FFFA;
+	font-family: lucida;
+	font-size:20px;
+	padding:10px 10px;
+	margin:10px 10px;
+}
